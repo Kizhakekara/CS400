@@ -1,2 +1,2 @@
-# CS400
+# CS400Git
 repository for class
